@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranishshinde30
-- 👀 I’m interested in Data, Economics, Econometrics
+- 👀 I’m interested in Data, Economics, Econometrics, Research
 - 🌱 I’m currently learning Econometrics and Data Analytics in R
 - 💞️ I’m looking to collaborate on Econometrics Projects
 - 📫 You can reach out to me on email pranishshinde66@gmail.com
